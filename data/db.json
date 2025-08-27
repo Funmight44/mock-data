@@ -282,6 +282,18 @@
       ]
     },
     {
+      "id": "k7",
+      "imgpath": "/images/jean-and-top.jpg",
+      "title": "Quality unisex top and jean",
+      "price": "15",
+      "inStock": false,
+      "size": [
+        "SM",
+        "L",
+        "M"
+      ]
+    },
+    {
       "id": "k6",
       "imgpath": "/images/jumpsuit-jean.jpg",
       "title": "Quality jumpsuit for 12yrs",
